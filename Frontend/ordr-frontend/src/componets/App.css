@@ -1,0 +1,123 @@
+/* App.css */
+
+/* General styling for the app */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background-color: #f9f9f9;
+  min-height: 100vh;
+}
+
+/* Header styling */
+.header {
+  width: 100%;
+  text-align: center;
+  background-color: #007bff;
+  padding: 20px 0;
+  color: white;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+/* File upload container */
+.file-upload-container {
+  background-color: white;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  max-width: 500px;
+  width: 100%;
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.file-upload-container:hover {
+  transform: scale(1.02);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+}
+
+/* File input styling */
+.file-input {
+  padding: 12px;
+  border: 1px solid #007bff;
+  border-radius: 8px;
+  width: 80%;
+  margin: 20px 0;
+  transition: border-color 0.3s ease;
+}
+
+.file-input:hover {
+  border-color: #0056b3;
+}
+
+/* Upload button styling */
+.upload-button {
+  padding: 12px 24px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.upload-button:hover {
+  background-color: #218838;
+  transform: scale(1.05);
+}
+
+/* Message styling */
+.message {
+  color: #333;
+  margin-top: 20px;
+}
+
+/* Download button styling */
+.download-button {
+  padding: 12px 24px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  margin-top: 10px;
+  display: block;
+  text-decoration: none;
+}
+
+.download-button:hover {
+  background-color: #0056b3;
+  transform: scale(1.05);
+}
+
+/* Sheet section styling */
+.sheet-section {
+  margin-top: 20px;
+  border-top: 1px solid #ddd;
+  padding-top: 20px;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .file-upload-container {
+    padding: 30px;
+  }
+
+  .title {
+    font-size: 2rem;
+  }
+
+  .upload-button,
+  .download-button {
+    width: 100%;
+  }
+}

@@ -1,0 +1,18 @@
+DocNum	DocType	Series	NumAtCard	DocDate	TaxDate	DocDueDate	CardCode	U_FRIEGHT	U_SALESCAT	U_DEPT	U_XmlFileStatus	BPL_IDAssignedToInvoice	U_MHXML
+DocNum	DocType	Series	NumAtCard	DocDate	TaxDate	DocDueDate	CardCode	U_FRIEGHT	U_SALESCAT	U_DEPT	U_XmlFileStatus	BPLId	U_MHXML
+1	dDocument_Items	881	6710676590	20241001	20241001	20241031	16M109	To Pay	Spare	Sales & Marketing	1	3	0
+2	dDocument_Items	881	6710676666	20241001	20241001	20241031	16M109	To Pay	Spare	Sales & Marketing	1	3	0
+3	dDocument_Items	881	6710676502	20241001	20241001	20241031	16M109	To Pay	Spare	Sales & Marketing	1	3	0
+4	dDocument_Items	881	6710671067	20241001	20241001	20241031	16M011	To Pay	Spare	Sales & Marketing	1	3	0
+5	dDocument_Items	881	6710671076	20241001	20241001	20241031	16M011	To Pay	Spare	Sales & Marketing	1	3	0
+6	dDocument_Items	881	6710671056	20241001	20241001	20241031	16M011	To Pay	Spare	Sales & Marketing	1	3	0
+7	dDocument_Items	881	6710671028	20241001	20241001	20241031	16M011	To Pay	Spare	Sales & Marketing	1	3	0
+8	dDocument_Items	881	6710671159	20241001	20241001	20241031	16M011	To Pay	Spare	Sales & Marketing	1	3	0
+9	dDocument_Items	881	6710146722	20241001	20241001	20241031	16M058	To Pay	Spare	Sales & Marketing	1	3	0
+10	dDocument_Items	881	6710146702	20241001	20241001	20241031	16M058	To Pay	Spare	Sales & Marketing	1	3	0
+11	dDocument_Items	881	6710169141	20241001	20241001	20241031	16M058	To Pay	Spare	Sales & Marketing	1	3	0
+12	dDocument_Items	881	6710176646	20241001	20241001	20241031	16M107	To Pay	Spare	Sales & Marketing	1	3	0
+13	dDocument_Items	881	6710403207	20241001	20241001	20241031	16M107	To Pay	Spare	Sales & Marketing	1	3	0
+14	dDocument_Items	881	6710711106	20241001	20241001	20241031	16M110	To Pay	Spare	Sales & Marketing	1	3	0
+15	dDocument_Items	881	6710711107	20241001	20241001	20241031	16M110	To Pay	Spare	Sales & Marketing	1	3	0
+16	dDocument_Items	881	6710587758	20241001	20241001	20241031	16M010	To Pay	Spare	Sales & Marketing	1	3	0
