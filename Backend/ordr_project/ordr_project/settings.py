@@ -25,7 +25,9 @@ SECRET_KEY = 'django-insecure-*dbjd+=1b&580^^6cyi8fqv$d(p6rw=r@6k2&m@h5hk--p-z^1
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    '*'
+]
 
 
 # Application definition
@@ -40,7 +42,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
     'ordr_app',
-    'Export',
+  
 
 
 ]
